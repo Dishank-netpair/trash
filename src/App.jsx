@@ -10,7 +10,7 @@ import Button from "./components/button";
 import LineDivider from "./components/lineDivider";
 import AvailableSites from "./components/AvailableSites";
 import Terms from "./components/Terms";
-import Punter from "./components/punter";
+import Punter from "./components/Punter";
 import Instagram from "./components/instagram";
 import GetInTouch from "./components/GetInTouch";
 import Form from "./components/Form";
